@@ -1,0 +1,19 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Shashwat
+#	email = shashwat@shashwat-HP-ProBook-440-G4.(none)
+
+[credential]
+	helper = store
+
+[http]
+    sslVerify = false
+
+
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
+
+[user]
+	name = shashwat99
+	password = 7862@Suna
